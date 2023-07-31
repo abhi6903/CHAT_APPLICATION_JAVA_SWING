@@ -1,3 +1,7 @@
+#CHAT_APPLICATION_JAVA_SWING
+
+
+
 A JAVA based Desktop application to facilitate real time chatting as a PBL for OOPs.
 • Leveraged JAVA swing, JSON & Socket programming to create an interactive desktop application.
 • Tech-Stack: JAVA, SQL, JSON, Socket Programming.
